@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fasih Zaheer Malik</h1>
 <h3 align="center">A passionate Frontend Developer love building beautiful and dynamic apps.</h3>
 
-- 📫 How to reach me **malikfasih08@gmail.com**
+- read more @ <a href="https://muhammad-fasih.netlify.app/" target="blank">Portfolio</a>
+- reach me @ **malikfasih08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
