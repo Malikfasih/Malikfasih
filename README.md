@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Muhammad Fasih Zaheer Malik</h1>
-<h3>A Software Developer, who is passionate about building beautiful and dynamic web apps.</h3>
+<h3>A Software Developer - Frontend, who is passionate about building beautiful and dynamic web apps.</h3>
 
 - more about me <a href="https://muhammad-fasih.netlify.app/" target="blank">Portfolio</a>
 - reach me @ **malikfasih08@gmail.com**
